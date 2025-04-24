@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.SimpleLobbySystem.cppa7.o",
+		"Module.SimpleLobbySystem.cppa8.o",
+		"Module.SimpleLobbySystem.gen.cppa7.o",
+		"Module.SimpleLobbySystem.gen.cppa8.o"
+	]
+}

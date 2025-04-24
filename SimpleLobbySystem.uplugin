@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SimpleLobbySystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/vimhe/Lobby-System/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimpleLobbySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
